@@ -1,0 +1,138 @@
+body {background:url(../imagenes/clash1.jpg);
+background-repeat:no-repeat;
+background-size:100% 100%;}
+
+	*{margin:0px;
+	padding:0;
+	}
+
+h2 {color:#5D065F;
+font-size:40px;
+text-align:center;
+font-family:tahoma;}
+
+
+p {font-size:20px;
+width:50%;
+height:250px;
+color:white;
+font-family:tahoma;
+text-decoration:none;
+position:absolute;
+top:60%;
+left:45%;
+}
+
+
+
+
+.green {color:#035414}
+.orange {color:#079FC4;
+text-decoration:none;}
+
+h4 {font-family:"arial black";
+font-size:20px;
+color:white;
+position:absolute;
+top:95%;
+text-align:center;
+background:#09DBE6;
+width:100%;
+}
+
+footer {font-size:12px;
+background:#6F7279;
+text-align:center;
+font-family:tahoma;
+position:absolute;
+height:17px;
+top:100%;
+width:100%;
+}
+
+.inicio{font-size:24px;
+color:#FFFFFF;
+text-decoration:none;
+margin:10px 10px;
+display:inline-block;
+box-shadow:0px 2px 0px #08BCE8;
+font-family:tahoma;
+padding:10px 20px;
+background:#079FC4;}
+.inicio:hover {box-shadow:0px 5px 0px #08BCE8;
+background:#04576C;
+color:#079FC4;}
+
+.arenas {font-size:24px;
+color:#FFFFFF;
+font-family:tahoma;
+text-decoration:none;
+padding:10px 20px;
+margin:10px 10px;
+display:inline-block;
+box-shadow:0px 2px 0px #08BCE8;
+background:#079FC4;}
+.arenas:hover {box-shadow:0px 5px 0px #08BCE8;
+background:#04576C;
+color:#079FC4;}
+
+.cartas{font-size:24px;
+color:#FFFFFF;
+font-family:tahoma;
+text-decoration:none;
+padding:10px 20px;
+margin:10px 10px;
+display:inline-block;
+box-shadow:0px 2px 0px #08BCE8;
+background:#079FC4;}
+.cartas:hover {box-shadow:0px 5px 0px #08BCE8;
+background:#04576C;
+color:#079FC4;}
+
+.mazos{font-size:24px;
+color:#FFFFFF;
+font-family:tahoma;
+text-decoration:none;
+padding:10px 20px;
+margin:10px 10px;
+display:inline-block;
+box-shadow:0px 2px 0px #08BCE8;
+background:#079FC4;}
+.mazos:hover {box-shadow:0px 5px 0px #08BCE8;
+background:#04576C;
+color:#079FC4;}
+
+.consejos {font-size:24px;
+color:#FFFFFF;
+font-family:tahoma;
+text-decoration:none;
+padding:10px 20px;
+margin:10px 10px;
+display:inline-block;
+box-shadow:0px 2px 0px #08BCE8;
+background:#079FC4;}
+.consejos:hover {box-shadow:0px 5px 0px #08BCE8;
+background:#04576C;
+color:#079FC4;}
+
+.contacto {font-size:24px;
+color:#FFFFFF;
+font-family:tahoma;
+text-decoration:none;
+padding:10px 20px;
+margin:10px 10px;
+display:inline-block;
+box-shadow:0px 2px 0px #08BCE8;
+background:#079FC4;}
+.contacto:hover {box-shadow:0px 5px 0px #08BCE8;
+background:#04576C;
+color:#079FC4;}
+
+nav {width:100%;
+background:#079FC4;
+}
+
+.menu {width:100%;}
+.menu li {display:inline-block;}
+.menu li a {padding:10px 7px;
+display:inline-block;}
